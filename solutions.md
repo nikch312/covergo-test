@@ -1,3 +1,7 @@
+## Preview
+
+https://covergo-test.netlify.app
+
 ## Project setup
 ```
 npm install
