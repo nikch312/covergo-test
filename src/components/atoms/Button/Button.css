@@ -1,0 +1,23 @@
+.btn {
+  padding: 12px 16px;
+  min-width: 96px;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 2px;
+  display: inline-block;
+  text-align: center;
+}
+
+.btn:hover {
+  box-shadow: 0 0 8px 2px #bfbfbf;
+}
+
+.cg-solid {
+  color: white;
+  background-color: black;
+}
+
+.cg-outline {
+  color: black;
+  background-color: white;
+}

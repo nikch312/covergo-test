@@ -1,0 +1,24 @@
+.form {
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.step-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/deep/ .step-content {
+  display: inline-block;
+}
+
+/deep/ .btn-row {
+  margin-top: 48px;
+  display: flex;
+  justify-content: center;
+}
+
+/deep/ .btn {
+  margin: 0 8px;
+}
